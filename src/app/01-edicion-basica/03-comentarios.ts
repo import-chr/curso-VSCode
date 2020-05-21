@@ -5,12 +5,12 @@
     Tips:
         ⌘ /
         
-        Ctrl + \
+        Shift + ALt + A
 */
 
-const a = 10;
+/* const a = 10;
 const b = 20;
-const c = { a, b };
+const c = { a, b }; */
 
 
 const a = 30;

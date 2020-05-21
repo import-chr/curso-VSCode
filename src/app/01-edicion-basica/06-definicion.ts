@@ -9,7 +9,7 @@
         Ojear definición   Alt + F12
         Ir a la definición F12
 */
-
+/* hecho */
 import { saludar } from './extra/funciones';
 
 const saludo = saludar( 'Thanos' );
